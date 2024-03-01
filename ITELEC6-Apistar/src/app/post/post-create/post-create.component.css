@@ -1,0 +1,24 @@
+button{
+    margin:center;
+
+}
+mat-form-field, textarea{
+    width: 100%;
+    margin: auto;
+    color:rgb(45, 16, 175);
+}
+.mat-form-field{
+    background-color: aquamarine;
+    
+}
+.mdc-text-field--filled:not(.mdc-text-field--disabled){
+    background-color: rgb(7, 224, 231);
+}
+.mat-mdc-card {
+    --mdc-elevated-card-container-color: rgb(1, 240, 208);
+}
+
+.mdc-text-field--filled:not(.mdc-text-field--disabled){
+    background-color: rgb(11, 217, 224);
+}
+
